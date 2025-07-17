@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy David López
 
-<!--
-**David-LS-Bilbao/David-LS-Bilbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante del ciclo DAM en Ilerna Online.  
+📱 Apasionado del desarrollo Android con Kotlin y Jetpack Compose.  
+🚀 Actualmente desarrollando una app para gestión de pequeños negocios como proyecto final.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Kotlin, Jetpack Compose
+- Firebase (Auth, Firestore, Storage)
+- Clean Architecture + MVVM
+- Git, GitHub, Android Studio
+
+## 📂 Proyectos destacados
+
+🔹 [Gestor de gastos y clientes (Proyecto DAM)](https://github.com/tuusuario/nombre-del-repo)  
+🔹 Más proyectos próximamente...
+
+¡Gracias por visitar mi perfil!
+: ...
 -->
