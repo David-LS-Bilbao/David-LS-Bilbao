@@ -15,7 +15,6 @@
 
 ## 📂 Proyectos destacados
 
-🔹 [Gestor de gastos y clientes (Proyecto DAM)](https://github.com/tuusuario/nombre-del-repo)  
 🔹 Más proyectos próximamente...
 
 ¡Gracias por visitar mi perfil!
