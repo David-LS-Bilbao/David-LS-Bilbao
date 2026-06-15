@@ -17,10 +17,15 @@ Actualmente estoy enfocado en crear aplicaciones web y productos digitales usand
 ## 🛠️ Stack principal
 
 **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3
+
 **Backend:** Node.js, Express, APIs REST, JWT
+
 **Bases de datos:** PostgreSQL, MongoDB, Firebase Firestore
+
 **Mobile:** Kotlin, Jetpack Compose, Android Studio
+
 **Herramientas:** Git, GitHub, Docker, VS Code, Android Studio
+
 **IA aplicada:** uso de herramientas de IA para análisis, desarrollo, documentación, testing y productividad
 
 ## 📌 Proyectos destacados
